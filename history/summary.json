@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/wwww.sibur.ru",
     "slug": "sibur",
     "status": "down",
-    "uptime": "8.60%",
-    "uptimeDay": "8.60%",
-    "uptimeWeek": "8.60%",
-    "uptimeMonth": "8.60%",
-    "uptimeYear": "8.60%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-27": 0
+      "2022-07-27": 18
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/taif.ru",
     "slug": "taif",
     "status": "down",
-    "uptime": "4.36%",
-    "uptimeDay": "4.36%",
-    "uptimeWeek": "4.36%",
-    "uptimeMonth": "4.36%",
-    "uptimeYear": "4.36%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-27": 0
+      "2022-07-27": 18
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1038,
-    "timeDay": 1038,
-    "timeWeek": 1038,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "time": 2354,
+    "timeDay": 2354,
+    "timeWeek": 2354,
+    "timeMonth": 2354,
+    "timeYear": 2354,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1473,
-    "timeWeek": 1473,
-    "timeMonth": 1473,
-    "timeYear": 1473,
+    "time": 1626,
+    "timeDay": 1626,
+    "timeWeek": 1626,
+    "timeMonth": 1626,
+    "timeYear": 1626,
     "dailyMinutesDown": {}
   }
 ]
