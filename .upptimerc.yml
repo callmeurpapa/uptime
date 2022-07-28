@@ -18,7 +18,7 @@ sites:
   - name: Amur GCC
     url: https://amur-gcc.ru
   - name: YUG
-    url: https:/http://sibur-yug.ru
+    url: https://sibur-yug.ru
   - name: Magazine
     url: https://magazine.sibur.ru
   - name: Digest
@@ -26,7 +26,7 @@ sites:
   - name: Digital
     url: https://sibur.digital
   - name: SIBUR-2
-    url: https://sibur.ru
+    url: http://sibur.ru
     
 status-website:
   baseUrl: uptime
