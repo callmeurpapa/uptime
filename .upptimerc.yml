@@ -1,10 +1,11 @@
-# Change these first
-owner: callmeurpapa # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+
+owner: callmeurpapa 
+repo: uptime 
 
 sites:
   - name: SIBUR
     url: https://sibur.ru
+    port: 443
   - name: TAIF
     url: http://taif.ru
   - name: B2b
@@ -15,13 +16,11 @@ sites:
     url: https://career.sibur.ru
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: uptime
   logoUrl: https://www.sibur.ru/local/templates/main/assets/images/Fav-ru.jpg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 8=====================0
+  introTitle: "Мониторинг времени работы и состояния вебсайтов"
+  introMessage: ¯\_(ツ)_/¯ 
   navbar:
     - title: Status
       href: /
