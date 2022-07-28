@@ -13,7 +13,17 @@ sites:
     url: https://b2b-rni.sibur.ru
   - name: career
     url: https://career.sibur.ru
-
+  - name: AGHK
+    url: https://aghk.sibur.ru
+  - name: Amur GCC
+    url: https://amur-gcc.ru
+  - name: Clients
+    url: https://clients.sibur.ru
+  - name: Magazine
+    url: https://magazine.sibur.ru
+  - name: Digest
+    url: https://digest.sibur.ru
+  
 status-website:
   baseUrl: uptime
   logoUrl: https://www.sibur.ru/local/templates/main/assets/images/Fav-ru.jpg
