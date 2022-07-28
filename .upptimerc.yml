@@ -18,7 +18,7 @@ sites:
   - name: Amur GCC
     url: https://amur-gcc.ru
   - name: YUG
-    url: https://sibur-yug.ru
+    url: http://sibur-yug.ru
   - name: Magazine
     url: https://magazine.sibur.ru
   - name: Digest
