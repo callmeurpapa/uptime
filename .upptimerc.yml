@@ -4,8 +4,7 @@ repo: uptime
 
 sites:
   - name: SIBUR
-    url: https://sibur.ru
-    port: 443
+    url: https://sibur.ru/ru/
   - name: TAIF
     url: http://taif.ru
   - name: B2b
