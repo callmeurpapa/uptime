@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: SIBUR
-    url: https://sibur.ru/ru/
+    url: https://sibur.ru/
   - name: TAIF
     url: http://taif.ru
   - name: B2b
