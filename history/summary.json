@@ -1,8 +1,8 @@
 [
   {
     "name": "SIBUR",
-    "url": "https://sibur.ru/ru",
-    "icon": "https://favicons.githubusercontent.com/sibur.ru",
+    "url": "https://www.sibur.ru/ru/",
+    "icon": "https://favicons.githubusercontent.com/www.sibur.ru",
     "slug": "sibur",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-28": 433,
+      "2022-07-28": 449,
       "2022-07-27": 651
     }
   },
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/taif.ru",
     "slug": "taif",
     "status": "up",
-    "uptime": "0.56%",
-    "uptimeDay": "0.56%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
-    "time": 946,
-    "timeDay": 946,
-    "timeWeek": 946,
-    "timeMonth": 946,
-    "timeYear": 946,
+    "uptime": "1.99%",
+    "uptimeDay": "1.99%",
+    "uptimeWeek": "1.99%",
+    "uptimeMonth": "1.99%",
+    "uptimeYear": "1.99%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2022-07-28": 427,
       "2022-07-27": 651
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1706,
-    "timeDay": 1706,
-    "timeWeek": 1706,
-    "timeMonth": 1706,
-    "timeYear": 1706,
+    "time": 1727,
+    "timeDay": 1727,
+    "timeWeek": 1727,
+    "timeMonth": 1727,
+    "timeYear": 1727,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2102,
-    "timeDay": 2102,
-    "timeWeek": 2102,
-    "timeMonth": 2102,
-    "timeYear": 2102,
+    "time": 2061,
+    "timeDay": 2061,
+    "timeWeek": 2061,
+    "timeMonth": 2061,
+    "timeYear": 2061,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1420,
-    "timeDay": 1420,
-    "timeWeek": 1420,
-    "timeMonth": 1420,
-    "timeYear": 1420,
+    "time": 1393,
+    "timeDay": 1393,
+    "timeWeek": 1393,
+    "timeMonth": 1393,
+    "timeYear": 1393,
     "dailyMinutesDown": {}
   }
 ]
