@@ -23,7 +23,11 @@ sites:
     url: https://magazine.sibur.ru
   - name: Digest
     url: https://digest.sibur.ru
-  
+  - name: Digital
+    url: https://sibur.digital
+  - name: SIBUR-2
+    url: https://sibur.ru
+    
 status-website:
   baseUrl: uptime
   logoUrl: https://www.sibur.ru/local/templates/main/assets/images/Fav-ru.jpg
