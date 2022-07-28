@@ -1,5 +1,5 @@
 # Change these first
-owner: callmeurpap # Your GitHub organization or username, where this repository lives
+owner: callmeurpapa # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
@@ -17,7 +17,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: uptime
+  baseUrl: /uptime
   logoUrl: https://www.sibur.ru/local/templates/main/assets/images/Fav-ru.jpg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
