@@ -4,9 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: SIBUR
-    url: https://wwww.sibur.ru
+    url: https://wwww.sibur.ru/ru
   - name: TAIF
-    url: https://taif.ru
+    url: http://taif.ru
   - name: B2b
     url: https://b2b.sibur.ru
   - name: B2B-rni
