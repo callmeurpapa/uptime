@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-28": 247,
+      "2022-07-28": 337,
       "2022-07-27": 651
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-28": 247,
+      "2022-07-28": 337,
       "2022-07-27": 651
     }
   },
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2085,
-    "timeDay": 2085,
-    "timeWeek": 2085,
-    "timeMonth": 2085,
-    "timeYear": 2085,
+    "time": 2071,
+    "timeDay": 2071,
+    "timeWeek": 2071,
+    "timeMonth": 2071,
+    "timeYear": 2071,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1806,
-    "timeDay": 1806,
-    "timeWeek": 1806,
-    "timeMonth": 1806,
-    "timeYear": 1806,
+    "time": 1762,
+    "timeDay": 1762,
+    "timeWeek": 1762,
+    "timeMonth": 1762,
+    "timeYear": 1762,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "career",
+    "url": "https://career.sibur.ru",
+    "icon": "https://favicons.githubusercontent.com/career.sibur.ru",
+    "slug": "career",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1988,
+    "timeDay": 1988,
+    "timeWeek": 1988,
+    "timeMonth": 1988,
+    "timeYear": 1988,
     "dailyMinutesDown": {}
   }
 ]
