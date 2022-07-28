@@ -14,9 +14,9 @@ sites:
   - name: career
     url: https://career.sibur.ru
   - name: Nipigas
-    url: https://nipigas.ru
+    url: http://nipigas.ru
   - name: Amur GCC
-    url: https://amur-gcc.ru
+    url: http://amur-gcc.ru
   - name: YUG
     url: http://sibur-yug.ru
   - name: Magazine
