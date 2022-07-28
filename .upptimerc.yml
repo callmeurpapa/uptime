@@ -11,6 +11,8 @@ sites:
     url: https://b2b.sibur.ru
   - name: B2B-rni
     url: https://b2b-rni.sibur.ru
+  - name: career
+  - url: https://career.sibur.ru
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
