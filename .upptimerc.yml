@@ -13,12 +13,12 @@ sites:
     url: https://b2b-rni.sibur.ru
   - name: career
     url: https://career.sibur.ru
-  - name: AGHK
-    url: https://aghk.sibur.ru
+  - name: Nipigas
+    url: https://nipigas.ru
   - name: Amur GCC
     url: https://amur-gcc.ru
-  - name: Clients
-    url: https://clients.sibur.ru
+  - name: YUG
+    url: https:/http://sibur-yug.ru
   - name: Magazine
     url: https://magazine.sibur.ru
   - name: Digest
