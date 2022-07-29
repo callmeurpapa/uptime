@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: SIBUR
-    url: https://sibur.ru/
+    url: https://www.sibur.ru/ru/contacts/
   - name: TAIF
     url: http://taif.ru
   - name: B2b
@@ -14,9 +14,9 @@ sites:
   - name: career
     url: https://career.sibur.ru
   - name: Nipigas
-    url: http://nipigas.ru
+    url: https://nipigas.ru/about/contacts/
   - name: Amur GCC
-    url: http://amur-gcc.ru
+    url: https://amur-gcc.ru/contacts/
   - name: YUG
     url: http://sibur-yug.ru
   - name: Magazine
@@ -25,8 +25,8 @@ sites:
     url: https://digest.sibur.ru
   - name: Digital
     url: https://sibur.digital
-  - name: SIBUR-2
-    url: http://sibur.ru
+#  - name: SIBUR-2
+#    url: http://sibur.ru
     
 status-website:
   baseUrl: uptime
