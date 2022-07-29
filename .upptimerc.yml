@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: SIBUR
-    url: https://www.sibur.ru
+    url: https://sibur.ru/ru/
     __dangerous__disable_verify_peer: true
   - name: TAIF
     url: http://taif.ru
