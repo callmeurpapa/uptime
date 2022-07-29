@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: SIBUR
-    url: https://sibur.ru/ru/
+    url: http://sibur.ru
     __dangerous__disable_verify_peer: true
   - name: TAIF
     url: http://taif.ru
@@ -15,7 +15,7 @@ sites:
   - name: career
     url: https://career.sibur.ru
   - name: Nipigas
-    url: https://nipigas.ru
+    url: http://nipigas.ru
     __dangerous__disable_verify_peer: true
   - name: Amur GCC
     url: https://amur-gcc.ru
