@@ -4,7 +4,7 @@ repo: uptime
 delay: 2000
 sites:
   - name: SIBUR
-    url: http://sibur.ru
+    url: https://178.248.232.145
     __dangerous__disable_verify_peer: true
   - name: TAIF
     url: http://taif.ru
