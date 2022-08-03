@@ -54,3 +54,4 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "40 */6 * * *"
   uptime: "*/5 * * * *"
+  delay: 2000 # Delay of 2 seconds between sites
