@@ -1,12 +1,11 @@
 
 owner: callmeurpapa 
 repo: uptime 
-
+delay: 2000
 sites:
   - name: SIBUR
     url: http://sibur.ru
     __dangerous__disable_verify_peer: true
-    delay: 2000 # Delay of 2 seconds between sites
   - name: TAIF
     url: http://taif.ru
   - name: B2b
@@ -56,4 +55,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "40 */6 * * *"
   uptime: "*/5 * * * *"
-  delay: 2000 # Delay of 2 seconds between sites
