@@ -4,7 +4,7 @@ repo: uptime
 delay: 2000
 sites:
   - name: SIBUR
-    url: https://178.248.232.145
+    url: http://178.248.232.145
     __dangerous__disable_verify_peer: true
   - name: TAIF
     url: http://taif.ru
@@ -15,7 +15,7 @@ sites:
   - name: career
     url: https://career.sibur.ru
   - name: Nipigas
-    url: http://nipigas.ru
+    url: http://5.23.53.236
     __dangerous__disable_verify_peer: true
     delay: 2000 # Delay of 2 seconds between sites
   - name: Amur GCC
