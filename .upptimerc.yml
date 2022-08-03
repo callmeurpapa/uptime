@@ -6,6 +6,7 @@ sites:
   - name: SIBUR
     url: http://sibur.ru
     __dangerous__disable_verify_peer: true
+    delay: 2000 # Delay of 2 seconds between sites
   - name: TAIF
     url: http://taif.ru
   - name: B2b
@@ -17,6 +18,7 @@ sites:
   - name: Nipigas
     url: http://nipigas.ru
     __dangerous__disable_verify_peer: true
+    delay: 2000 # Delay of 2 seconds between sites
   - name: Amur GCC
     url: https://amur-gcc.ru
     __dangerous__disable_verify_peer: true
