@@ -30,8 +30,12 @@ sites:
     url: https://digest.sibur.ru
   - name: Digital
     url: https://sibur.digital
-    name: Eshop
+  - name: Eshop
     url: https://eshop.sibur.ru
+  - name: Social
+    url: https://social.sibur.ru
+  - name: ChatBot
+    url: https://chatb.sibur.ru
     
 status-website:
   baseUrl: uptime
