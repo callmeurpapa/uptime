@@ -34,8 +34,10 @@ sites:
     url: https://eshop.sibur.ru
   - name: Social
     url: https://social.sibur.ru
-  - name: ChatBot
-    url: https://chatb.sibur.ru
+  - name: Sharefile
+    url: https://sharefile.sibur.ru
+  - name: Spasibo
+    url: https://thanks.sibur.ru
     
 status-website:
   baseUrl: uptime
