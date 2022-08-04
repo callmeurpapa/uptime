@@ -4,8 +4,9 @@ repo: uptime
 delay: 2000
 sites:
   - name: SIBUR
-    url: http://178.248.232.145
+    url: https://178.248.232.145
     __dangerous__disable_verify_peer: true
+    port: 443
   - name: TAIF
     url: http://taif.ru
   - name: B2b
@@ -15,9 +16,9 @@ sites:
   - name: career
     url: https://career.sibur.ru
   - name: Nipigas
-    url: http://5.23.53.236
+    url: https://5.23.53.236
     __dangerous__disable_verify_peer: true
-    delay: 2000 # Delay of 2 seconds between sites
+    port: 443
   - name: Amur GCC
     url: https://amur-gcc.ru
     __dangerous__disable_verify_peer: true
@@ -29,8 +30,8 @@ sites:
     url: https://digest.sibur.ru
   - name: Digital
     url: https://sibur.digital
-#  - name: SIBUR-2
-#    url: http://sibur.ru
+    name: Eshop
+    url: https://eshop.sibur.ru
     
 status-website:
   baseUrl: uptime
