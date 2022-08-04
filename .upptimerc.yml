@@ -36,8 +36,8 @@ sites:
     url: https://social.sibur.ru
   - name: Sharefile
     url: https://sharefile.sibur.ru
-  - name: Spasibo
-    url: https://thanks.sibur.ru
+  - name: Nitrile
+    url: https://nitrile.sibur.ru 
     
 status-website:
   baseUrl: uptime
