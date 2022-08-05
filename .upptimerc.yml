@@ -38,8 +38,8 @@ sites:
     url: https://sharefile.sibur.ru
   - name: Nitrile
     url: https://nitrile.sibur.ru
-  - name: ChatBot
-    url: http://chatbot.sibur.ru
+  - name: NKNH
+    url: https://nknh.ru/
     
     
 status-website:
