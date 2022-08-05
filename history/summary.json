@@ -264,19 +264,19 @@
     "url": "https://nitrile.sibur.ru",
     "icon": "https://favicons.githubusercontent.com/nitrile.sibur.ru",
     "slug": "nitrile",
-    "status": "down",
-    "uptime": "78.46%",
-    "uptimeDay": "81.07%",
-    "uptimeWeek": "78.46%",
-    "uptimeMonth": "78.46%",
-    "uptimeYear": "78.46%",
-    "time": 2466,
-    "timeDay": 2884,
-    "timeWeek": 2466,
-    "timeMonth": 2466,
-    "timeYear": 2466,
+    "status": "up",
+    "uptime": "78.02%",
+    "uptimeDay": "81.11%",
+    "uptimeWeek": "78.02%",
+    "uptimeMonth": "78.02%",
+    "uptimeYear": "78.02%",
+    "time": 2406,
+    "timeDay": 2781,
+    "timeWeek": 2406,
+    "timeMonth": 2406,
+    "timeYear": 2406,
     "dailyMinutesDown": {
-      "2022-08-05": 241,
+      "2022-08-05": 250,
       "2022-08-04": 94
     }
   },
@@ -287,7 +287,7 @@
     "slug": "chat-bot",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "72.16%",
+    "uptimeDay": "5.03%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-05": 0,
+      "2022-08-05": 10,
       "2022-08-04": 4
     }
   }
