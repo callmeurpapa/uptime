@@ -3,8 +3,8 @@ owner: callmeurpapa
 repo: uptime 
 delay: 2000
 sites:
-  - name: SIBUR
-    url: https://178.248.232.145
+  - name: Sibur-int
+    url: https://sibur-int.ru
     __dangerous__disable_verify_peer: true
     port: 443
   - name: TAIF
@@ -15,8 +15,8 @@ sites:
     url: https://b2b-rni.sibur.ru
   - name: career
     url: https://career.sibur.ru
-  - name: Nipigas
-    url: https://5.23.53.236
+  - name: Awseg
+    url: https://awseg.sibur.ru
     __dangerous__disable_verify_peer: true
     port: 443
   - name: Amur GCC
@@ -37,7 +37,10 @@ sites:
   - name: Sharefile
     url: https://sharefile.sibur.ru
   - name: Nitrile
-    url: https://nitrile.sibur.ru 
+    url: https://nitrile.sibur.ru
+  - name: ChatBot
+    url: http://chatbot.sibur.ru
+    
     
 status-website:
   baseUrl: uptime
