@@ -40,7 +40,8 @@ sites:
     url: https://nitrile.sibur.ru
   - name: NKNH
     url: https://nknh.ru/
-    
+  - url: Business Practices
+    url: https://businesspractices.ru/
     
 status-website:
   baseUrl: uptime
